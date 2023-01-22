@@ -9,11 +9,11 @@ namespace Domains
     public class Departmans:BaseEntity
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Name {get; set; }
         public ICollection<Personel> Personels { get; set; }
         public Departmans()
         {
-            Personels = new List<Personel>();
+            Personels = new HashSet<Personel>();
         }
     }
     

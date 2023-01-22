@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IUnitofwork.cs" />
     <Compile Include="Migrations\202301221601147_Init.cs" />
     <Compile Include="Migrations\202301221601147_Init.designer.cs">
       <DependentUpon>202301221601147_Init.cs</DependentUpon>
@@ -58,6 +59,13 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PersonelContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\Abstract\IDepartmentsRepository.cs" />
+    <Compile Include="Repository\Abstract\IPersonelRepository.cs" />
+    <Compile Include="Repository\Abstract\IRepository.cs" />
+    <Compile Include="Repository\Concrete\DepartmentRepository.cs" />
+    <Compile Include="Repository\Concrete\PersonelRepository.cs" />
+    <Compile Include="Repository\Concrete\Repository.cs" />
+    <Compile Include="UnitofWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -74,6 +82,7 @@
       <DependentUpon>202301221601147_Init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
