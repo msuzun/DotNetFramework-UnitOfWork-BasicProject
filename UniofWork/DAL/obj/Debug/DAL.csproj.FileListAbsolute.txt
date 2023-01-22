@@ -1,0 +1,16 @@
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\DAL.dll.config
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\DAL.dll
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\DAL.pdb
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\Domains.dll
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\Domains.pdb
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.dll
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.pdb
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.Migrations.Init.resources
+C:\Users\sevki\Documents\Calismalar\Temp-Calisma\UnitOfWork\src\UniofWork\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
